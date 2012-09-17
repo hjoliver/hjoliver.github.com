@@ -1,4 +1,5 @@
 hjoliver.github.com
 ===================
 
-My clone of the cylc suite engine
+(I am the lead developer of the CYLC SUITE ENGINE project)
+
